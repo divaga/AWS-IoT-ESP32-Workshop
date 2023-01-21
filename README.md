@@ -48,10 +48,6 @@ https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32
 <p align="center"> 
 <img src="images/ard-lib.jpg" width="40%">
 </p>
-<p align="center"> 
-<img src="images/ntp.jpg" width="40%">
-</p>
-
 
 
 ## Step 2: Instalasi driver untuk komunikasi dengan ESP32
